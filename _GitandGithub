@@ -24,3 +24,6 @@ Git >> Version Control
                     git status
                     git commit -m "Commit Message"
                     git push
+
+
+    >> Create new Branch >> git checkout -b "branchname"              
